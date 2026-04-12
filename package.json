@@ -1,5 +1,5 @@
 {
-  "name": "danmu-api",
+  "name": "danmu-api-server",
   "version": "1.0.0",
   "type": "module",
   "description": "A danmu Node.js Express API server",
